@@ -1,0 +1,6250 @@
+ 
+34 
+ 
+SectionVIII: Road Accidents in Million plus Cities 
+ 
+ Fifty  Million Plus cities reported road accident data for 2016.  These 50 Million Plus Cities 
+accounted for a share of 18.7 per cent in total road accidents in the country during 2016 as against 
+22.1 percent in 2015. During 2016, in Million Plus Cities 11.8  per cent  persons were killed in road 
+accidents as against 11.3 percent in 2015.Whereas, 16.7  per cent  persons were injured in road 
+accidents in the country    during 2016 as against 16.4 percent in 2015. The fatal accidents in terms 
+of percentage was  12.5 during 2016 and 12.8 in  2015. This is indicated in Table 8.1.  
+ 
+ 
+Table 8.1  : Percentage Share of 50 Million Plus Cities in Road Accidents  
+S.No 
+Accidents/Deaths/Injuries 
+2016 
+2015 
+1 
+All Accidents 
+18.7 
+22.1 
+2 
+Fatal Accidents 
+12.5 
+12.8 
+3 
+Persons Killed 
+11.8 
+11.3 
+4 
+Persons Injured 
+16.7 
+16.4 
+ 
+An important accident related parameter is the extent of accident severity (road accident related 
+deaths per 100 accidents). Accident severity in terms of percentage share of 50 Million Plus cities 
+was 19.8  per cent in 2015 as against 14.9  per cent in 2015. It varies from a low of 6.6 per cent in 
+Kochi  to a high of 69.9 per cent in Ludhiana Table 5.2). The other cities which reported a very 
+high accident severity included Amritsar (67.1  per cent), Asansol - Durgapur (58.4 per cent), 
+Varanasi  (49.6  per cent), and Agra  (49.2 per cent). This is depicted in Table 8.2. 
+ 
+Details  indicating the total number of accidents, persons killed and injured with accident severity  
+in the 50 Million plus cities is illustrated at Table -  8.2. Out of these fifty Million plus Cities 
+Chennai reported the highest number of road accidents (7486) during 2016 followed by Delhi 
+(7375) . Delhi  reported highest number of road accident deaths ( 1591) followed by Chennai 
+(1183). Cities with highest reported accidents depicted in the following Chart 8.1.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3379
+4104
+5143
+5323
+7375
+7486
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+Mumbai
+Kolkata
+Indore
+Bangalore
+Delhi
+Chennai
+Chart 8.1 Top  Five Cities with  Higher Road  Accidents 
+
+ 
+35 
+ 
+ 
+Table 8. 2: Total Number of Road Accidents,  Number of persons Killed & Injured in Million Plus Cities in 2016 
+S.no 
+Cities 
+Fatal 
+Accidents 
+Injury 
+Accidents 
+Total 
+Accidents 
+No. of Persons 
+Killed 
+No. of Persons 
+Injured 
+Severity of 
+Accidents* 
+1 
+Agra 
+475 
+570 
+1062 
+522 
+811 
+49.2 
+2 
+Ahmedabad 
+422 
+1361 
+1783 
+428 
+1494 
+24 
+3 
+Allahabad 
+481 
+600 
+1100 
+488 
+758 
+44.4 
+4 
+Amritsar 
+97 
+49 
+152 
+102 
+103 
+67.1 
+5 
+Asansol-Durgapur 
+228 
+163 
+416 
+243 
+255 
+58.4 
+6 
+Aurangabad 
+136 
+433 
+666 
+143 
+681 
+21.5 
+7 
+Bengaluru 
+790 
+3471 
+5323 
+835 
+4264 
+15.7 
+8 
+Bhopal 
+237 
+2481 
+3571 
+248 
+2650 
+6.9 
+9 
+Chandigarh 
+144 
+220 
+428 
+151 
+329 
+35.3 
+10 Chennai 
+1155 
+6050 
+7486 
+1183 
+7349 
+15.8 
+11 Coimbatore 
+276 
+1002 
+1354 
+288 
+1199 
+21.3 
+12 Delhi 
+1548 
+5671 
+7375 
+1591 
+7154 
+21.6 
+13 Dhanbad 
+83 
+115 
+217 
+97 
+286 
+44.7 
+14 Faridabad 
+208 
+415 
+624 
+212 
+508 
+34 
+15 Ghaziabad 
+395 
+477 
+887 
+421 
+647 
+47.5 
+16 Gwalior 
+221 
+1506 
+1993 
+244 
+1599 
+12.2 
+17 Hyderabad 
+444 
+2148 
+2945 
+448 
+2469 
+15.2 
+18 Indore 
+404 
+3880 
+5143 
+431 
+4263 
+8.4 
+19 Jabalpur 
+337 
+2580 
+3256 
+352 
+5780 
+10.8 
+20 Jaipur 
+832 
+1827 
+3004 
+890 
+2625 
+29.6 
+21 Jamshedpur 
+77 
+103 
+188 
+77 
+186 
+41 
+22 Jodhpur 
+91 
+148 
+270 
+100 
+239 
+37 
+23 Kannur 
+47 
+436 
+504 
+52 
+660 
+10.3 
+24 Kanpur 
+620 
+813 
+1451 
+684 
+911 
+47.1 
+25 Khozikode 
+138 
+1230 
+1542 
+145 
+1681 
+9.4 
+26 Kochi 
+161 
+2157 
+2573 
+169 
+2595 
+6.6 
+27 Kolkata 
+388 
+2650 
+4104 
+407 
+3182 
+9.9 
+28 Kollam 
+194 
+1430 
+1677 
+207 
+1688 
+12.3 
+29 Kota 
+94 
+448 
+590 
+102 
+569 
+17.3 
+30 Lucknow 
+595 
+869 
+1639 
+631 
+990 
+38.5 
+31 Ludhiana 
+357 
+174 
+549 
+384 
+313 
+69.9 
+32 Madurai 
+217 
+685 
+946 
+222 
+926 
+23.5 
+33 Mallapuram 
+376 
+2115 
+2738 
+402 
+3264 
+14.7 
+34 Meerut 
+393 
+584 
+977 
+421 
+748 
+43.1 
+35 Mumbai 
+529 
+2772 
+3379 
+562 
+3517 
+16.6 
+36 Nagpur 
+291 
+1033 
+1373 
+307 
+1510 
+22.4 
+37 Nashik 
+203 
+425 
+1031 
+213 
+599 
+20.7 
+38 Patna 
+458 
+430 
+923 
+484 
+510 
+52.4 
+39 Pune 
+397 
+901 
+1376 
+410 
+1036 
+29.8 
+40 Raipur 
+401 
+1079 
+2240 
+415 
+1410 
+18.5 
+41 Rajkot 
+153 
+502 
+719 
+154 
+610 
+21.4 
+42 Srinagar 
+49 
+243 
+324 
+51 
+325 
+15.7 
+43 Surat 
+273 
+460 
+790 
+283 
+687 
+35.8 
+44 Thiruvanthapuram 
+177 
+2217 
+2453 
+180 
+2994 
+7.3 
+45 Thrissur 
+116 
+1154 
+1357 
+128 
+1585 
+9.4 
+46 Tiruchirapalli 
+141 
+484 
+657 
+144 
+732 
+21.9 
+47 Vadodra 
+203 
+654 
+1046 
+214 
+878 
+20.5 
+48 Varanasi 
+226 
+230 
+456 
+226 
+230 
+49.6 
+49 Vijaywada city 
+362 
+1188 
+1640 
+379 
+1571 
+23.1 
+50 Vishakapatnam 
+320 
+967 
+1538 
+327 
+1238 
+21.3 
+Total 
+16960 
+63600 
+89835 
+17797 
+82608 
+19.8 
+* Number of persons killed per 100 accidents.  
+ 
+
+ 
+36 
+ 
+Section IX: Spatial & Intertemporal Distribution of Road Accidents 
+ 
+1. Urban Vis - a- Vis Rural 
+An analysis of road accidents in urban and rural areas for the calendar year 2016 reveals that 
+rural areas are more prone to road accidents. The total number of road accidents in urban areas 
+were lower (2,16,813) as compared to number of accidents in rural areas (2,63,839).The 
+percentage share of accidents in rural areas and urban areas were54.9 and 45.1 respectively in 
+total number of accidents in the country. A comparison of percentage share of  fatal accidents, 
+total accidents, persons killed and injured in rural vis-à-vis urban is illustrated in Table 9.1. 
+The table indicates that significant investment & improvement in rural roads is required for 
+reducing accidents in rural areas. Detailed State/UT-wise information on the spatial distribution 
+of road accidents rural as well as urban is given in Annexures  XXXVI and XXXVII. A 
+comparative picture of road accidents, persons killed and injured in urban and rural areas is 
+illustrated in Chart 9.1 
+Table 9.1  : Total Number of Road Accidents, Persons Killed and Injured in Rural  
+& Urban Areas during 2016 
+Category 
+Total Accidents Fatal Accidents Person Killed 
+Person Injured 
+Urban Area 
+2,16,813  
+(45.1) 
+53,487 
+(39.3) 
+57,840 
+(38.4) 
+2,12,346  
+ (42.9) 
+Rural Area 
+2,63,839   
+(54.9) 
+82,584 
+(60.7) 
+92,945 
+ (61.6) 
+2,82,278  
+(57.1) 
+Total 
+4,80,652 
+1,36,071 
+1,50,785 
+4,94,624 
+Note: Figures in parentheses indicate share of the total. 
+ 
+ 
+ 
+ 
+ 
+ 
+2,16,813
+2,63,839
+4,80,652
+57,840
+92,945
+1,50,785
+2,12,346
+2,82,278
+4,94,624
+0
+1,00,000
+2,00,000
+3,00,000
+4,00,000
+5,00,000
+6,00,000
+Urban Area
+Rural Area
+Total
+Chart 9.1:  Total  Number of Accidents, Persons Killed and Injured in 
+Urban & Rural Areas during  2016
+Total Accidents
+Person Killed
+Person Injured
+
+ 
+37 
+ 
+2. Month Wise Occurences of Road Accidents 
+The month wise details of road accidents, persons killed and injured in respect of all states/UTs 
+during 2015 are given below at Table 9.2: 
+ 
+Table 9.2:  Month-Wise classification of Road Accidents 
+  
+JAN 
+FEB 
+MAR 
+APR 
+MAY 
+JUNE 
+JULY 
+AUG 
+SEP 
+OCT 
+NOV 
+DEC 
+Total 
+Accidents 41,749 
+40,765 
+42,843 
+42,010 
+43,368 
+39,489 
+37,881 
+37,729 
+36,929 
+39,952 
+38,505 
+39,432 
+4,80,652 
+Killed 
+12,702 
+12,638 
+13,671 
+13,856 
+14,091 
+12,507 
+11,667 
+11,239 
+11,050 
+12,430 
+12,217 
+12,717 
+1,50,785 
+Injured 
+42,221 
+41,838 
+43,776 
+44,560 
+44,880 
+39,696 
+39,149 
+39,322 
+38,155 
+40,430 
+38,421 
+42,176 
+4,94,624 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+41,749
+40,765
+42,843
+42,010
+43,368
+39,489
+37,881
+37,729
+36,929
+39,952
+38,505
+39,432
+32,000
+34,000
+36,000
+38,000
+40,000
+42,000
+44,000
+JAN
+FEB
+MAR
+APR
+MAY
+JUNE
+JULY
+AUG
+SEP
+OCT
+NOV
+DEC
+Chart 9.2 : Month - Wise Total Number of Road Accidents during the calender 
+year 2016
+12,702
+12,638
+13,671
+13,856
+14,091
+12,507
+11,667
+11,239
+11,050
+12,430
+12,217
+12,717
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+16,000
+JAN
+FEB
+MAR
+APR
+MAY
+JUNE
+JULY
+AUG
+SEP
+OCT
+NOV
+DEC
+Chart 9.3 :  Month - Wise Total Number of Persons Killed in Road Accidents 
+during the calender year 2016
+42,221
+41,838
+43,776
+44,560
+44,880
+39,696
+39,149
+39,322
+38,155
+40,430
+38,421
+42,176
+34,000
+36,000
+38,000
+40,000
+42,000
+44,000
+46,000
+JAN
+FEB
+MAR
+APR
+MAY
+JUNE
+JULY
+AUG
+SEP
+OCT
+NOV
+DEC
+Chart 9.4  : Month - Wise Total Number of  Persons Injured in Road Accidents 
+during the calender year 2016
+
+ 
+38 
+ 
+It is seen from Charts  9.2, 9.3 and 9.4 that the total number of accidents during 2016 were highest 
+in the month of May, (43,368) and followed by the month of March (42,843) and April  (42,010).  
+Similarly, the total number of persons killed were highest in the month of May (14,091) followed 
+by month of April  (13,856).The number of persons injured were highest in the month of May 
+(44,880) followed by the month of April (44,560). The States/UT wise distribution is given in 
+Annexure-XXXVIII. 
+ 
+3. Time Wise Occurences of Road Accidents 
+ 
+For framing strategies for prevention and provision of medical care for accident victims, timing of 
+accidents is a relevant factor. During 2016 high rate of accidents took place between 15:00 to 18:00 
+hours ( 17.9 per cent ) followed by 18:00 hours to 21:00 hours (17.6 per cent)  This is depicted in 
+Tables 9.5 and Chart 9.5. State/UT wise details are at Annexure-XXXIX. 
+ 
+Table 9.5 :  Road Accidents as per the Time of Occurrence (2015) 
+Time 
+Number of Accidents 
+Per cent Share in  
+Total Accidents 
+06:00 - 09:00 hrs (Day) 
+54,522 
+11.3 
+09:00 - 12:00 hrs (Day) 
+75,771 
+15.7 
+ 12:00 - 15:00 hrs (Day) 
+73,380 
+15.3 
+15:00 - 18:00 hrs (Day) 
+85,834 
+17.9 
+18:00 - 21:00 hrs (Night) 
+84,555 
+17.6 
+21:00 - 24:00 hrs (Night) 
+50,970 
+10.6 
+00:00 - 03:00 hrs (Night ) 
+25,976 
+5.4 
+03:00 - 06:00 hrs (Night) 
+29,644 
+6.2 
+ Total 24 hrs 
+4,80,652 
+100.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+54,522
+75,771
+73,380
+85,834
+84,555
+50,970
+25,976
+29,644
+0
+10,000 20,000 30,000 40,000 50,000 60,000 70,000 80,000 90,000 1,00,000
+06:00 - 09:00 hrs (Day)
+09:00 - 12:00 hrs (Day)
+ 12:00 - 15:00 hrs (Day)
+15:00 - 18:00 hrs (Day)
+18:00 - 21:00 hrs (Night)
+21:00 - 24:00 hrs (Night)
+00:00 - 03:00 hrs (Night )
+03:00 - 06:00 hrs (Night)
+Chart 9.5 : Distribution of Total Number of Road Accidents as per Time 
+of Occurrence: 2016
+
+ 
+39 
+ 
+Section X:   International Comparison 
+ 
+According to World Road Statistics 2016 published by International Road Federation, Geneva, 
+there is lower incidence of deaths  per 100,000 in  the countries Australia, Canada, China,  France, 
+Germany, Japan, Republic of Korea, U.S.A, Poland, Portugal etc. except Russian Federation  while 
+comparing it with India. Incidence of road accident related deaths were higher in Russian 
+Federation (19) in comparison to India (11) during the calendar year 2014. A cross country 
+comparison of incidence of road accident related deaths and injury accidents of select countries are 
+given in Table 10.1 and Chart 10.1. 
+ 
+Table 10.1:  Cross Country Comparison of Incidence of Road related Deaths and Injury 
+Accidents in 2014 
+Sl. No. 
+Country 
+Killed per 100,000 
+Population 
+Injury Accidents per 
+100,000 Population 
+1 
+Australia 
+5 
+N.R 
+2 
+Canada 
+5 
+316 
+3 
+China 
+4 
+14 
+4 
+Denmark 
+3 
+51 
+5 
+Finland 
+4 
+97 
+6 
+France 
+5 
+88 
+7 
+Germany 
+4 
+373 
+8 
+India 
+11 
+39 
+9 
+Israel 
+3 
+143 
+10 
+Japan 
+4 
+451 
+11 
+Korea, Republic of 
+9 
+443 
+12 
+Mauritius 
+11 
+206 
+13 
+Mexico 
+3 
+9 
+14 
+Myanamar 
+8 
+28 
+15 
+New Zealand 
+7 
+198 
+16 
+Norway 
+3 
+97 
+17 
+Poland 
+8 
+92 
+18 
+Portugal 
+6 
+328 
+19 
+Russian Federation 
+19 
+139 
+20 
+Singapore 
+3 
+143 
+21 
+United States of America 
+10 
+526 
+Note: Injury accident refers to road accident resulting in at least one injury or death. 
+Sources:  1. For India – Transport Research Wing, Ministry of Road Transport & Highways. 
+                2. For Other Countries – World Road Statistics, 2016. 
+ 
+ 
+ 
+ 
+
+ 
+40 
+ 
+ 
+ 
+ 
+Injury accidents per lakh of population in India was substantially lower at around 39  during 2014 
+when compared with other developed countries.  United States of America reported the highest 
+figure in respect of injury accidents per lakh population at (526 ) followed by Japan (451), Republic 
+of Korea (443), Germany (373), Portugal (328) and Canada (316). China  reported a very low figure 
+of 14 and the lowest figure by Mexico (9)  in respect of injury accidents per lakh population.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5
+5
+4
+3
+4
+5
+4
+11
+3
+4
+9
+11
+3
+8
+7
+3
+8
+6
+19
+3
+10
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+Chart  10.1 :  Country-wise Number of Persons Killed per 100,000 
+Population
+
+ 
+41 
+ 
+Section XI:Road Safety Initiatives by the Government of India 
+ 
+ 
+1. 
+ROAD SAFETY INITIATIVES BY THE GOVERNMENT OF INDIA 
+ 
+(i) The Government has approved a National Road Safety Policy.  This Policy outlines various 
+policy measures such as promoting awareness, establishing road safety information data 
+base, encouraging safer road infrastructure including application of intelligent transport, 
+enforcement of safety laws etc. 
+(ii) The Government has constituted the National Road Safety Council as the apex body to take 
+policy decisions in matters of road safety.   
+(iii) The Ministry has requested all States/UTs to constitute  State Road Safety Council and 
+District Road Safety Committees, and to hold their meetings regularly. 
+(iv) The Ministry has formulated a multi-pronged strategy to address the issue of road safety based 
+on 4 ‘E’s viz. Education, Engineering (both of roads and vehicles), Enforcement and 
+Emergency Care.  
+(v) Road safety has been made an integral part of road design at planning stage.   
+(vi) Road Safety Audit of selected stretches of National Highways has been taken up. 
+(vii) High priority has been accorded to identification and rectification of black spots (accident 
+prone spots) on national highways. Around 700 such black spots have been identified for 
+improvement.  
+ 
+(viii) The threshold for four laning of national highway has been reduced from 15,000 Passenger 
+Car Units (PCUs) to 10,000 PCUs. About 52,000 Km of stretches of State Highways has 
+been identified for conversion to national highways. 
+ 
+(ix) Setting up of model driving training institutes in States and refresher training to drivers of 
+Heavy Motor Vehicle in the unorganized sector. 
+ 
+(x) Advocacy/Publicity campaign on road safety through the electronic and print media.  
+ 
+(xi) Tightening of safety standards for vehicles like Seat Belts, anti-lock braking system etc. 
+ 
+(xii) Providing cranes and ambulances to various State Governments under the National Highway 
+Accident Relief Service Scheme for development on National Highways. National Highways 
+Authority of India also provides ambulances at a distance of 50 Km. on each of its completed 
+stretches of National Highways under its Operation & Maintenance contracts. 
+ 
+(xiii) To protect the Good Samaritans from harassment on the actions being taken by them to save 
+the life of the road accident victims, the Ministry of Road Transport & Highways have issued 
+guidelines vide Notification dated 12th May, 2015 to be followed by hospitals, police and all 
+other authorities for the protection of Good Samaritan.  Further, Ministry has also issued 
+Standard Operating Procedure (SOP) for the examination of Good Samaritans by the Police 
+or during trial vide notification dated 21.01.2016. Both the guidelines have been mandated 
+by Hon’ble Supreme Court of India with slight modifications.  Now people must not hesitate 
+to help the road accident victims to reach the nearest hospital, in case they come across one. 
+
+ 
+42 
+ 
+  
+(xiv) Road safety activities have also been included in schedule (vii) of the companies Act, 2013. 
+The companies may now be able to undertake road safety related activities under CSSR.  
+ 
+(xv) 
+Ministry of Road Transport & Highways has introduced Motor Vehicle (Amendment) 
+Bill, 2016 in Lok Sabha in August 2016 containing the different provisions of road 
+safety. The Bill addresses road safety issues by providing for stricter penalties for 
+traffic offences,  permitting electronic and IT enabled enforcement, improving fitness 
+certification and licensing regime, statutory provision for protection of good 
+Samaritans etc.  
+ 
+(xvi) 
+The House referred the Bill to Standing Committee. Based on the recommendation of 
+the Standing Committee, the Bill was revised and introduced in Lok Sabha in April 
+2017. Lok Sabha has passed the Bill. The Bill is pending in the Rajya Sabha. 
+ 
+(xvii) Motor Vehicle (Amendment) Bill, 2016 also envisage the creation of National Road Safety 
+and Traffic Management Board (NRSTMB).   
+   
+2. 
+National Road Safety Policy  
+ 
+Based on the globally accepted multi-pronged strategy and the safe-system approach for 
+improving road safety, the National Road Safety Policy outlines the initiatives to be taken 
+by the Government at all levels. The policy is outlined as under: -  
+ 
+I. Preamble  
+  
+The Government of India is deeply concerned about the growth in the number of road 
+accidents, injuries and fatalities in recent years. It recognizes that road accidents have now 
+become a major public health issue, and the victims are mainly the poor and vulnerable road 
+users.  
+  
+2.  The Government of India further recognizes that as road accidents involve roads, motor 
+vehicles as also the human beings, road safety needs to be addressed on a holistic basis. It 
+also recognizes that regardless of jurisdictions, the Central and State Governments have a 
+joint responsibility in reducing the incidence of road accidents, injuries and fatalities.  
+  
+3.  In the light of this, the Government of India, through this National Road Safety Policy, 
+states its commitment to bring about a significant reduction in mortality and morbidity 
+resulting from road accidents.   
+ 
+II. Policy Statements 
+In order to achieve a significant improvement in road safety, the Government of India is 
+committed to:  
+  
+(i) Raise Awareness about Road Safety Issues  
+The Government would increase its efforts to promote awareness about the various aspects 
+of road safety, the social and economic implications of road accidents and what needs to be 
+done to curb the rising menace of road accidents. This would enable and empower the 
+different stakeholders to play a meaningful role in promoting road safety.  
+ 
+
+ 
+43 
+ 
+(ii) Establish a Road Safety Information Database  
+  
+The Government will provide assistance to local bodies, Union Territories and States to 
+improve the quality of crash investigation and of data collection, transmission and analysis. 
+A National Road Safety Information System will be established for providing continuity 
+and policy guidelines to this activity.  
+ 
+(iii) Ensure Safer Road Infrastructure  
+  
+ 
+The Government will take measures to review standards pertaining to safety in the design 
+of rural and urban roads and bring them in consonance with international best practices 
+keeping in view Indian traffic conditions. Continuing application of Intelligent Transport 
+Systems (ITS) under a national framework to establish a safe and efficient transport system 
+will be encouraged.  
+  
+(iv) Safer Vehicles  
+  
+The Government will take steps to ensure that safety features are built in at the stage of 
+design, manufacture, usage, operation and maintenance of both motorized and non-
+motorized vehicles in line with international standards and practices in order to minimize 
+adverse safety and environmental effects of vehicle operation on road users (including 
+pedestrians and bicyclists) and infrastructure.  
+  
+(v) Safer Drivers  
+  
+ 
+The Government will strengthen the system of driver licensing and training to improve the 
+competence and capability of drivers.  
+  
+(vi) Safety of Vulnerable Road Users  
+   The design and construction of all road facilities (rural and urban) will take into account the 
+needs of non-motorized transport and the vulnerable and physically challenged in an 
+appropriate manner. The Government will seek to disseminate ‘best practices’ in this regard 
+to town planners, architects, and highway and traffic engineers.   
+ 
+(vii) Road Traffic Safety Education and Training  
+  
+Road safety knowledge and awareness will be created amongst the population through 
+education, training and publicity campaigns. Road safety education will also focus on 
+school children and college going students, while road safety publicity campaigns will be 
+used to propagate good road safety practices among the community. The Government will 
+encourage all professionals associated with road design, road construction, road network 
+management, traffic management and law enforcement to attain adequate knowledge of 
+road safety issues.  
+  
+(viii) Enforcement of Safety Laws  
+ 
+The Government will take appropriate measures to assist various state and other 
+governments to strengthen and improve the quality of enforcement in order to ensure 
+effective and uniform implementation of safety laws. The Government will actively 
+encourage the establishment and strengthening of highway Patrolling on National and State 
+Highways in cooperation with State Governments and Union Territories as appropriate.  
+ 
+ 
+ 
+ 
+
+ 
+44 
+ 
+(ix) Emergency Medical Services for Road Accidents  
+  
+The Government will strive to ensure that all persons involved in road accidents benefit 
+from speedy and effective trauma care and management. The essential functions of such a 
+service would include the provision of rescue operation and administration of first aid at 
+the site of an accident and the transport of the victim from accident site to nearby hospital. 
+Hospitals alongside the National Highways and State Highways would be adequately 
+equipped to provide for trauma care and rehabilitation.  
+  
+(x) HRD & Research for Road Safety  
+The Government will encourage increased activity in programmes of road safety research 
+by identifying priority areas, funding research in those areas adequately and establishing 
+centers of excellence in research and academic institutions. The Government will facilitate 
+dissemination of the result of research and identified examples of good practices through 
+publication, training, conferences, workshops and websites.  
+  
+(xi) Strengthening Enabling Legal, Institutional and Financial Environment for Road 
+Safety  
+The Government will take appropriate measures to ensure that the required legal, 
+institutional and financial environment for road safety is further strengthened and a 
+mechanism for effective coordination of various stakeholders is put in place. The reforms 
+in these areas would provide for the active and extensive participation of the community at 
+large, of the private sector, academia and NGOs.  
+  
+III.  Implementation Strategy  
+The Government has decided to establish a dedicated agency viz. a National Road Safety 
+and Traffic Management Board (NRSTMB) to oversee the issues related to road safety and 
+evolve effective strategies for implementation of the Road Safety Policy.  
+ 
+CONSTITUTION OF NATIONAL ROAD SAFETY COUNCIL (NRSC)/ STATE 
+ROAD SAFETY COUNCILS AND DISTRICT COMMITTEES  
+ 
+NRSC is the apex body for road safety established under Section 215 of Motor Vehicles 
+Act 1988. It is chaired by Hon’ble Minister for Road Transport and Highways and 
+Ministers-in-charge of Road Transport of States / UTs, DG Police of all States and 
+representatives from the Ministries/Departments such as Home Affairs, Human Resource 
+Development, Railways, Industry, Petroleum & Natural Gas, Environment & Forests, 
+Health & Family Welfare etc. are official members.  
+ 
+Under section 215 of Motor Vehicle Act 1988, a State Govt. by notification in official  
+gazette can constitute a State Road Safety Council comprising a Chairman and such other 
+members as the government considers necessary and on such terms and conditions that 
+govt. determine. Similarly, there is also a provision for District Road Safety Committee 
+for each district.  
+ 
+The Ministry has requested all States/UTs for setting up of State Road  Safety Council and 
+District Road Safety Committees. Around all the States have constituted the State Road 
+Safety Council. 
+ 
+ 
+
+ 
+45 
+ 
+IV. ONGOING SCHEMES OF MINISTRY OF ROAD TRANSPORT & HIGHWAYS TO IMPROVE ROAD 
+SAFETY 
+ 
+(i)  Setting up of Inspection & Certification (I&C) Centres: 
+    An increasing number of vehicles in developing countries like India are not in a 
+roadworthy state. Poor maintenance and servicing of old in use vehicles not only damages 
+the environment but also poses great safety hazard on road. The compliance with limits or 
+standards of vehicles exhaust emissions for air quality improvement purpose is directly 
+dependent on the implementation and / or enforcement of effective vehicle inspection 
+system. Due to the rapid increase in public means of transportation, the improvement of 
+vehicle performance capability and servicing becomes an ever increasing urgency. An 
+effective air pollution control and thus, a decrease of vehicles emissions, improvement of 
+roadworthiness can be achieved by the implementations of an effective vehicle inspection 
+system. 
+The Ministry of Road Transport & Highways therefore implementing a scheme for setting 
+up of at least one model Inspection & Certification Centre in each State/UT with Central 
+assistance to check the fitness of in-use vehicle. The State may further replicate the 
+scheme. During 11th Plan, MoRTH sanctioned 9  Centre for setting up one each in the 
+State of Andhra Pradesh, Karnataka, Gujarat, Maharashtra, Rajasthan, Haryana, Madhya 
+Pradesh, U.P and Delhi. The I&C Centre of Maharashtra and Haryana are operational. The 
+I&C Centre of Delhi, Madhya Pradesh, Karnataka and Gujarat will be operational shortly. 
+The remaining three centres will be operational by the end of 2017.   
+ 
+ 
+     During 12th five year plan, the Ministry has also sanction 10 more such centers 
+in the States of West Bengal, Chhatisgarh, Odisha, Punjab, Sikkim, J&K, Pondicherry, 
+Mizoram, Nagaland and Kerala on a pilot basis.  Some of these are already at  various 
+stages of implementation. 
+ 
+(ii) Institutes of Driving & Research (IDTR)  
+ Large numbers of road accidents are taking place on Indian roads every year resulting in 
+the death of around one lakh forty six thousand persons. The causative analysis of various 
+road accidents studies carried out in the past infers that majority of road accidents occur 
+due to drivers’ fault. The report of year 2015 indicates that 77.1% of all road accidents are 
+due to the fault of the driver. Despite having adequate provisions in Central Motor Vehicle 
+Rules (CMVR) which directly as well as indirectly helps in ensuring good driving skills 
+and knowledge of rules of road regulation among drivers, it was felt that there is an urgent 
+need to impart driving training, both theoretical and practical to the existing and aspiring 
+drivers. Need has also been felt for setting standards and monitoring driving training and 
+issue of Driving Licence based on an objective scientific process of testing skills. For this 
+purpose, the Ministry formulated a scheme to set up model Institutes of Driving Training 
+and Research (IDTR) in States/UTs 
+ 
+During the 10th Five Year Plan, 13 Model Driver Training Schools was sanctioned and all 
+are complete and functional. During 11th Plan, the Ministry of Road Transport & 
+Highways accorded sanction for setting up 8 IDTRs i.e. one each in the States of Himachal 
+Pradesh, Madhya Pradesh, Rajasthan, Maharashtra, Haryana, Bihar, Tripura and Uttar 
+Pradesh. The IDTRs of Madhya Pradesh, Rajasthan and Maharashtra are functional.  The 
+civil construction of rest of the IDTR is in progress and likely to be completed shortly.  
+ 
+ 
+
+ 
+46 
+ 
+During 12th Five Year Plan, the Ministry has   sanctioned 6 more IDTR   one each in the 
+State of Chhattisgarh, Telangana, Andhra Pradesh, Maharashtra Manipur and Sikkim. One 
+Regional Driving Training Centre (RTDC) centres have also been sanctioned West Bengal. 
+In principle approval has been accorded to set three in RDTC in Maharashtra.  
+(iii) National Highway Accident Relief Service Scheme (NHARSS) 
+The scheme entails providing cranes and ambulances to States/ UTs/NGOs for relief and 
+rescue measures in the aftermath of accidents by way of evacuating road accident victims 
+to nearest medical aid centre and for clearing the accident site.  So far, 347 ten ton cranes 
+and 106 small/medium size cranes have been provided under the scheme.  509 ambulances 
+have been provided to States/UTs/NGOs under the scheme.  
+ 
+Further, Ministry of Road Transport & Highways has also provided 140 advanced life 
+support ambulances to 140 identified hospitals upgraded under the Ministry of Health and 
+Family Welfare’s Scheme ‘establishment of an integrated network of Trauma Centers’ 
+along the Golden Quadrilateral, North-South and East-West Corridors of the National 
+Highways by upgrading the trauma care facilities in 140 identified State Government 
+hospitals.  
+ 
+(iv)   Publicity Measures and Awareness Campaign on Road Safety: 
+With a view to spread road safety awareness among the general public, the Government 
+has been undertaking various publicity measures in the form of telecasting/broadcasting of 
+T.V. spots/Radio jingles, display of cinema slides, hoardings, organizing Road Safety 
+Week, seminars, exhibitions,  all India essay competition on road safety, printing of 
+handbills/stickers, posters, etc., containing road safety messages for various segments of 
+road users viz. Pedestrians, cyclists, school children, heavy vehicle drivers, etc. , painting 
+on road railings on themes of road safety, road safety games, calendars depicting road 
+safety messages, etc.  The Publicity campaign is carried out through DAVP, Doordarshan, 
+All India Radio and newspapers.  It is the ministry’s effort to make road safety a social 
+movement. 
+ 
+(v) 
+Ministry of Road Transport & Highways has also issued following notifications to improve the 
+road safety during last year: - 
+ 
+Sl. No  
+G.S.R Number and Date of 
+Publication 
+Subject 
+1 
+GSR 188(E) dated 22.02.2016 
+ 
+Automatic Headlights in two wheelers 
+ 
+2 
+GSR 310(E) dated 16.03.2016 
+ 
+Anti-lock Braking System for 2 Wheelers 
+ 
+3 
+G.S.R 1095(E) dated 28.11.2016 
+ 
+Fitment of vehicle tracking device and 
+emergency button in transport vehicle 
+ 
+4 
+G.S.R 1096(E) dated 28.11.2016 
+Vehicle Fitness procedure 
+5 
+SO 411(E) dated 9.2.2016 
+Safety Standards (Amendment to SO 1365 (E) 
+6 
+GSR 120(E) dated 10.02.2017 
+ 
+Anti-lock Braking System for M1 and M2 
+category of vehicles. 
+7 
+G.S.R 424 E dated 01.05.2017 
+ 
+Fitment of Speed Governor on M1 category 
+(GVW≤ 3500kg) of vehicles  
+  
+
+ 
+47 
+ 
+V. Improving the Road Accident Database:  
+With a aim  to capture the circumstances under which an accident occurs and to move 
+closer towards an accurate, consistent and objective road accident database, the Ministry 
+of Road Transport & Highways had constituted a Committee in November, 2016 including 
+experts from IIT-Delhi, IIT-Kharagpur, senior officers from Police and Transport 
+Departments of States [ADG Police (Traffic), Government of Tamil Nadu and Transport 
+Commissioner, Government of Tripura], Ministry of Health & Family Welfare, WHO and 
+officers of the Ministry to review and recommend the road accident formats to be filled 
+by the State/UT Police Departments to the Ministry for the Annual publication of ‘Road 
+Accidents in India’.  
+The Committee had recommended a uniform accident Recording Format to be adopted by 
+the Police in all the States/UTs and a set of the corresponding annual road accident data 
+Reporting Format (17 Forms) in which State/UT Departments would furnish data to the 
+Ministry.  With the acceptance of recommendations of the committee by the ministry, all    
+the States/U.Ts have been requested to adopt the revised Road accident Recording Formats 
+and to furnish the annual road accident data in the new Recording Formats w.e.f calendar 
+year 2017.  The approved formats have been uploaded in the Ministry’s website ( 
+www.morth.nic.in)   Five Zonal Workshops each at IIT Bombay, IIT-Kharagpur, IIT-
+Kanpur, IIT-Madras, IIT-Guwahati,  covering all States/U.Ts  have also been  conducted to 
+familiarize the police officers/personnel with the new formats so that the information could 
+be filled accurately and with ease. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+48 
+ 
+Section XII: Road Accidents Mitigation Measures taken by MoRTH 
+in recent past 
+ 
+It is clear from the Report that road accidents are multi-causal which requires multi-
+pronged measures to mitigate the problem through concerted efforts of all agencies concerned, 
+both in the Central Government and State Governments. These measures can be broadly divided 
+into road and vehicles engineering; education and awareness for drivers and the general public; 
+enforcement of road safety laws and trauma care facilities. 
+ 
+Road accidents mitigation measures which are within the purview of the Ministry of 
+Road Transport & Highways include road engineering design for safety, proper road marking 
+and signages; safety standards for vehicles like use of seat-belts, helmets etc., education and 
+awareness campaigns and programmes. The various accidents mitigation measures taken up by 
+the Ministry in recent past are as follows: 
+ 
+A. Road engineering measures 
+ 
+i) 
+Identification and rectification of accident black spots: So far, 789 accident black 
+spots have been identified in consultation with the States/UTs, of which 651 spots 
+are on the National Highways and 138 are on State Roads or with other agencies. In 
+case of the black spots on National Highways, a total of 140 spots have been rectified; 
+80 spots awarded for rectification works; 40 spots are at bidding stage; 163 spots are 
+being taken care as part of the ongoing development projects; and the balance are at 
+different stages of survey investigations. The Ministry ensures that immediate 
+cautionary and speed reduction measures are installed at the black spots till they are 
+rectified through long term measures. 
+ 
+ii) 
+Road Safety Audits: Road Safety Audits at different stages have been made part and 
+parcel of all road development projects on EPC and BOT modes. Stand-alone Road 
+Safety Audits have been sanctioned on National Highways in a length of about 400 
+km in 2016-17 and in a further length of 980 km in 2017-18 till August, 2017. 
+ 
+iii) 
+Installation of crash barriers: Installation of crash barriers in accident prone areas 
+in hilly States have been sanctioned in a length of 143 km at a cost of Rs. 88 crore in 
+2016-17. Crash barriers in a further length of 137 km at a cost of Rs 85 crore have 
+been sanctioned in 2017-18 till August 2017. These are at different stages of bidding. 
+ 
+iv) 
+Road Safety Annual Plans: A separate Road Safety Annual Plan has been framed 
+for improvement of road safety at selected locations on the National Highways. A 
+total of 11 (nos.) road safety improvement works at a cost of Rs 255 crore have been 
+sanctioned in 2016-17 which are in different stages of execution. Road Safety Annual 
+Plan for 2017-18 has also been approved and the proposals are in different stages of 
+investigations. 
+ 
+v) 
+Safety furniture in road projects: Provision of essential road safety furniture like 
+road signs/markings, delineators etc., has been specified for all road development 
+projects including re-surfacing works and riding quality improvement works. 
+ 
+vi) 
+Assistance for Road Safety Engineering works on State roads: Central Road Fund 
+(CRF) Rules have been amended in June 2016 earmarking 10% of the CRF funds for 
+Road Safety Engineering works on State Roads. Detailed guidelines have been issued 
+
+ 
+49 
+ 
+and all the States and UTs have been requested to take up road safety improvement 
+works on State Roads as per these guidelines at selected locations. 
+ 
+vii) 
+Training and capacity building: Training courses and training workshops have 
+been organized for building capacity in road safety audits and road safety 
+engineering. A Certificate Course for Road Safety Auditors is being conducted by 
+Indian Academy of Highway Engineers (IAHE) which is a training institute under 
+Ministry of Road Transport & Highways. First batch of 20 Auditors have already 
+been certified and second batch is in progress. Two National level workshops and 
+several regional training workshops in different States have been organized in which 
+more than 1000 engineers have been given training in road safety engineering and 
+road safety audits. 
+ 
+B. Vehicular safety standards and IT enabled safety measure 
+ 
+i) 
+Vehicular Safety Standards: Trucks are prohibited from carrying protruding rods; 
+Anti-locking Brake System (ABS) made mandatory on Heavy Vehicles; Cars to have 
+provision for fitment of at-least one child seat. Car Crash Standards to be made 
+mandatory w.e.f., 1st April, 2018; ABS/CBS for Two Wheelers mandated w.e.f. 
+1st April, 2018; AHO (Automatic Headlight On) made mandatory for Two 
+Wheelers to make them more conspicuous; Bus Body Code for safer and comfortable 
+buses; Truck Body Code for safe cabins to drivers and other road users; Mandatory 
+Fitment of Speed Governors on Transport Vehicles to avoid over speeding. 
+ 
+ii) 
+Buses with IT enabled safety measures under NIRBHAYA SCHEME: The 
+Ministry has issued notification that all public service vehicles, (except two and three 
+wheelers, e-rickshaws) have to be equipped with or fitted with vehicle location 
+tracking device and one or more emergency buttons. The vehicle location tracking 
+device and emergency button shall be fitted by the manufacturer or their dealer or the 
+respective operator. 
+ 
+C. Education and Awareness 
+ 
+i) 
+Model Institutes of Drivers Training and Research (IDTR): The Ministry is 
+implementing a scheme for setting up of Model Institutes of Drivers Training and 
+Research (IDTR) by States/UTs. So far 24 (nos.) ITDRs have been sanctioned in 
+different States/UTs and about 16 are complete and functioning. 
+ 
+ii) 
+Awareness and Publicity: The Ministry observes Road Safety Week every year with 
+the objective of spreading awareness about road safety. The 28th Road Safety Week 
+was observed from 9th to 15th January 2017 during which mass awareness 
+programmes such as Road Safety Walk, essay competition for children, radio talk 
+shows, street plays were organised. A mobile app – e-Challan was launched by the 
+Ministry to support the enforcement of traffic rules and transport laws by the State 
+Police and Transport Departments. 
+ 
+D. Post-crash response and trauma care 
+ 
+i) 
+Good Samaritans Guidelines: Guidelines have been issued by the Ministry to 
+prevent the harassment of “Good Samaritans” who help road accident victims. The 
+
+ 
+50 
+ 
+Hon’ble Supreme Court has accepted these guidelines and has asked the States for 
+implementation. 
+ 
+ii) 
+Effective Trauma Care: The National Highways Authority (NHAI) provides 
+ambulances at a distance of 50-60 km on its completed stretches of National 
+Highways. Cranes and ambulances are provided to various State Governments under 
+the National Highway Accident Relief Service Scheme for development on National 
+Highways. 
+ 
+Enforcement of traffic rules and motor vehicles rules are extremely important 
+components of road safety and accidents mitigation measure which are under the purview of 
+State Police and Transport Departments. The data has unambiguously demonstrated the 
+prevalence of unlawful behaviour on the roads such as drunken driving, over speeding, red light 
+jumping, overloading, lack of lane discipline etc., thereby causing accidents, injuries and 
+fatalities. The Motor Vehicles (Amendment) Bill, 2017 has made provisions for stricter penalties 
+for various traffic rules violations with the objective of strengthening enforcement and ensuring 
+greater compliance.   
+ 
+ 
+*************************************************************** 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ANNEXURE 
+ 
+
+Years
+Total 
+Number of 
+Road 
+Accidents 
+(in 
+numbers) 
+Total 
+Number of 
+Persons 
+Killed (in 
+numbers) 
+Total 
+Number of 
+Persons 
+Injured (in 
+numbers)
+Population of 
+India (in 
+thousands)
+Total 
+Number of 
+Registered 
+Motor 
+Vehicles 
+(in 
+thousands) 
+Road 
+Length (in 
+kms)
+Number of 
+Accidents 
+per Lakh 
+Population
+Number of 
+Accidents 
+per Ten 
+Thousand 
+Vehicles
+Number of 
+Accidents 
+per Ten 
+Thousand 
+Kms of 
+Roads 
+Number of 
+Persons 
+Killed Per 
+Lakh 
+Population
+Number of 
+Persons 
+Killed Per 
+Ten 
+Thousand 
+Vehicles 
+Number of 
+Persons 
+Killed per 
+Ten 
+Thousand 
+Kms of 
+Roads 
+Number of 
+Persons 
+Injured 
+per Lakh 
+Population 
+Number of 
+Persons 
+Injured 
+Per Ten 
+Thousand 
+Vehicles
+Number of 
+Persons 
+Injured 
+Per Ten 
+Thousand 
+Kms of 
+Roads 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+1970
+1,14,100
+14,500
+70,100
+5,39,000
+1,401
+11,88,728
+21.2
+814.4
+959.8
+2.7
+103.5
+122.0
+13.0
+500.4
+589.7
+1980
+1,53,200
+24,000
+1,09,100
+6,73,000
+4,521
+14,91,873
+22.8
+338.9
+1,026.9
+3.6
+53.1
+160.9
+16.2
+241.3
+731.3
+1990
+2,82,600
+54,100
+2,44,100
+8,35,000
+19,152
+19,83,867
+33.8
+147.6
+1,424.5
+6.5
+28.2
+272.7
+29.2
+127.5
+1,230.4
+1994
+3,25,864
+64,463
+3,11,500
+9,04,000
+27,660
+28,90,950
+36.0
+117.8
+1,127.2
+7.1
+23.3
+223.0
+34.5
+112.6
+1,077.5
+1995
+3,51,999
+70,781
+3,23,200
+9,24,359
+30,295
+29,75,035
+38.1
+116.2
+1,183.2
+7.7
+23.4
+237.9
+35.0
+106.7
+1,086.4
+1996
+3,71,204
+74,665
+3,69,502
+9,41,579
+33,786
+32,02,515
+39.4
+109.9
+1,159.1
+7.9
+22.1
+233.1
+39.2
+109.4
+1,153.8
+1997
+3,73,671
+76,977
+3,78,361
+9,59,792
+37,332
+32,98,788
+38.9
+100.1
+1,132.8
+8.0
+20.6
+233.3
+39.4
+101.4
+1,147.0
+1998
+3,85,018
+79,919
+3,90,674
+9,78,081
+41,368
+32,28,356
+39.4
+93.1
+1,192.6
+8.2
+19.3
+247.6
+39.9
+94.4
+1,210.1
+1999
+3,86,456
+81,966
+3,75,051
+9,96,130
+44,875
+32,96,650
+38.8
+86.1
+1,172.3
+8.2
+18.3
+248.6
+37.7
+83.6
+1,137.7
+2000
+3,91,449
+78,911
+3,99,265
+10,14,825
+48,857
+33,16,078
+38.6
+80.1
+1,180.5
+7.8
+16.2
+238.0
+39.3
+81.7
+1,204.0
+2001
+4,05,637
+80,888
+4,05,216
+10,28,610
+54,991
+33,73,520
+39.4
+73.8
+1,202.4
+7.9
+14.7
+239.8
+39.4
+73.7
+1,201.2
+2002
+4,07,497
+84,674
+4,08,711
+10,45,547
+58,924
+34,26,603
+39.0
+69.2
+1,189.2
+8.1
+14.4
+247.1
+39.1
+69.4
+1,192.8
+2003
+4,06,726
+85,998
+4,35,122
+10,62,388
+         
+67,007
+35,28,654
+38.3
+60.7
+1,152.6
+8.1
+12.8
+243.7
+41.0
+64.9
+1,233.1
+2004
+4,29,910
+92,618
+4,64,521
+10,79,117
+        
+72,718
+36,21,507
+39.8
+59.1
+1,187.1
+8.6
+12.7
+255.7
+43.0
+63.9
+1,282.7
+2005
+4,39,255
+94,968
+4,65,282
+10,95,722
+        
+81,502
+38,09,156
+40.1
+53.9
+1,153.2
+8.7
+11.7
+249.3
+42.5
+57.1
+1,221.5
+2006
+4,60,920
+1,05,749
+4,96,481
+11,12,186
+        
+89,618
+38,80,651
+41.4
+51.4
+1,187.7
+9.5
+11.8
+272.5
+44.6
+55.4
+1,279.4
+2007
+4,79,216
+1,14,444
+5,13,340
+11,28,521
+        
+96,707
+40,16,401
+42.5
+49.6
+1,193.1
+10.1
+11.8
+284.9
+45.5
+53.1
+1,278.1
+2008
+4,84,704
+1,19,860
+5,23,193
+11,44,734
+        
+1,05,353
+41,09,592
+42.3
+46.0
+1,179.4
+10.5
+11.4
+291.7
+45.7
+49.7
+1,273.1
+2009
+4,86,384
+1,25,660
+5,15,458
+11,60,813
+1,14,951
+44,71,510
+41.9
+42.3
+1,087.7
+10.8
+10.9
+281.0
+44.4
+44.8
+1,152.8
+2010
+4,99,628
+1,34,513
+5,27,512
+11,76,742
+        
+1,27,746
+45,82,439
+42.5
+39.1
+1,090.3
+11.4
+10.5
+293.5
+44.8
+41.3
+1,151.2
+2011
+4,97,686
+1,42,485
+5,11,394
+12,10,193
+        
+1,41,866
+46,76,838
+41.1
+35.1
+1,064.2
+11.8
+10.0
+304.7
+42.3
+36.0
+1,093.5
+2012
+4,90,383
+1,38,258
+5,09,667
+12,08,116
+1,59,491
+48,65,394
+40.6
+30.7
+1,007.9
+11.4
+8.7
+284.2
+42.2
+32.0
+1,047.5
+2013
+4,86,476
+1,37,572
+4,94,893
+12,23,581
+1,81,508
+52,31,922
+39.8
+26.8
+929.8
+11.2
+7.6
+262.9
+40.4
+27.3
+945.9
+2014
+4,89,400
+1,39,671
+4,93,474
+12,38,887
+        
+1,90,704
+54,02,486
+39.5
+25.7
+905.9
+11.3
+7.3
+258.5
+39.8
+25.9
+913.4
+2015
+5,01,423
+1,46,133
+5,00,279
+12,54,019
+2,10,023
+54,72,144
+40.0
+23.9
+916.3
+11.7
+7.0
+267.0
+39.9
+23.8
+914.2
+2016
+4,80,652
+1,50,785
+4,94,624
+12,68,961
+*
+*
+37.9
+*
+*
+11.9
+*
+*
+39.0
+*
+*
+    2. Population:  Registrar General of India
+    3. Road Length - Basic Road Statistics (M/o Road Transport & Highways)
+   4. Vehicles - Road Transport Year Book (M/o Road Transport & Highways)
+   5.  Data for Road Length and Registered Motor Vehicles is for the financial year
+   6.  Data for Road Accident is for the calendar year
+* Figures for road length and registered motor vehicles for the year 2016  are not available
+Note: Road length is inclusive of all roads constructed under Pradhan Mantri Gram Sadak Yojana and the erstwhile Jawahar Rozgar Yojana.
+Road Accidents, Persons Killed and Injured: 1970-2016
+Sources: 1. Accidents - State Police Authorities
+51
+Annexure - I
+
+Annexure - II
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2013
+2014
+2015
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+1
+Andhra Pradesh
+43482
+24440
+24258
+24888
+8.9
+5.0
+4.8
+5.2
+50.4
+28.1
+27.7
+28.2
+34.3
+34.9
+30.8
+1661.8
+1372.3
+1355.0
+2
+Arunachal Pradesh
+308
+205
+284
+249
+0.1
+0.0
+0.1
+0.1
+24.3
+16.0
+21.9
+19.0
+20.4
+13.6
+18.8
+109.6
+83.8
+112.0
+3
+Assam
+7211
+7144
+6959
+7435
+1.5
+1.5
+1.4
+1.5
+23.0
+22.5
+21.7
+22.9
+38.4
+32.2
+27.7
+250.3
+227.8
+213.1
+4
+Bihar
+10200
+9556
+9555
+8222
+2.1
+2.0
+1.9
+1.7
+10.2
+9.4
+9.3
+7.9
+28.2
+23.0
+20.0
+517.1
+455.6
+463.8
+5
+Chhattisgarh
+13657
+13821
+14446
+13580
+2.8
+2.8
+2.9
+2.8
+54.8
+54.8
+56.5
+52.5
+39.7
+35.7
+33.5
+1530.4
+1461.3
+1481.1
+6
+Goa
+4294
+4229
+4338
+4304
+0.9
+0.9
+0.9
+0.9
+229.9 220.8 222.1 217.7
+45.8
+41.9
+40.0
+3702.2
+3187.6
+2966.4
+7
+Gujarat
+25391
+23712
+23183
+21859
+5.2
+4.8
+4.6
+4.5
+41.9
+38.7
+37.3
+34.8
+16.1
+13.9
+12.4
+1532.9
+1324.2
+1271.8
+8
+Haryana
+10482
+10676
+11174
+11234
+2.2
+2.2
+2.2
+2.3
+39.9
+40.0
+41.3
+40.9
+15.9
+14.7
+14.1
+2467.7
+2501.1
+2414.1
+9
+Himachal Pradesh
+2981
+3058
+3010
+3168
+0.6
+0.6
+0.6
+0.7
+43.1
+43.8
+42.8
+44.7
+34.0
+31.4
+27.9
+560.1
+562.3
+541.4
+10 Jammu & Kashmir
+6457
+5861
+5836
+5501
+1.3
+1.2
+1.2
+1.1
+53.8
+48.2
+47.5
+44.3
+63.3
+51.7
+46.9
+1447.9
+1498.7
+1492.7
+11 Jharkhand
+5569
+5201
+5162
+4932
+1.1
+1.1
+1.0
+1.0
+17.2
+15.9
+15.5
+14.7
+16.6
+30.3
+25.0
+1502.5
+1260.6
+1208.8
+12 Karnataka
+44020
+43713
+44011
+44403
+9.0
+8.9
+8.8
+9.2
+72.6
+71.4
+71.2
+71.2
+36.5
+32.8
+29.8
+1441.2
+1395.8
+1367.6
+13 Kerala
+35215
+36282
+39014
+39420
+7.2
+7.4
+7.8
+8.2
+100.5 102.9 110.0 110.5
+44.8
+41.3
+40.4
+1903.2
+1875.4
+2002.2
+14 Madhya Pradesh
+51810
+53472
+54947
+53972
+10.7
+10.9
+11.0
+11.2
+69.6
+70.7
+71.6
+69.3
+59.1
+55.0
+49.3
+2264.3
+1909.7
+1901.7
+15 Maharashtra
+63019
+61627
+63805
+39878
+13.0
+12.6
+12.7
+8.3
+54.5
+52.6
+53.8
+33.2
+29.3
+26.3
+25.0
+1068.8
+1012.5
+1049.2
+16 Manipur
+671
+743
+671
+538
+0.1
+0.2
+0.1
+0.1
+26.8
+29.3
+26.2
+20.8
+22.7
+18.8
+21.8
+322.0
+343.0
+276.7
+17 Meghalaya
+525
+542
+606
+620
+0.1
+0.1
+0.1
+0.1
+19.6
+20.0
+22.1
+22.4
+23.9
+21.8
+22.7
+426.2
+408.7
+453.2
+18 Mizoram
+114
+132
+70
+83
+0.0
+0.0
+0.0
+0.0
+11.1
+12.7
+6.7
+7.8
+9.4
+9.6
+4.6
+104.2
+134.7
+71.2
+19 Nagaland
+71
+305
+54
+75
+0.0
+0.1
+0.0
+0.0
+3.1
+13.1
+2.3
+3.2
+2.3
+9.6
+1.6
+18.5
+83.3
+14.5
+20 Odisha
+9680
+9648
+10542
+10532
+2.0
+2.0
+2.1
+2.2
+23.4
+23.1
+25.0
+24.8
+23.0
+20.5
+20.2
+348.6
+340.7
+371.6
+21 Punjab
+6323
+6391
+6702
+6952
+1.3
+1.3
+1.3
+1.4
+22.4
+22.4
+23.2
+23.9
+9.0
+10.2
+10.7
+642.3
+613.6
+636.1
+22 Rajasthan
+23592
+24628
+24072
+23066
+4.8
+5.0
+4.8
+4.8
+33.7
+34.7
+33.4
+31.6
+23.4
+22.1
+19.4
+1043.3
+1020.9
+970.0
+23 Sikkim
+244
+203
+219
+210
+0.1
+0.0
+0.0
+0.0
+39.0
+32.1
+34.2
+32.5
+67.3
+51.3
+50.7
+371.4
+311.1
+294.0
+24 Tamil Nadu
+66238
+67250
+69059
+71431
+13.6
+13.7
+13.8
+14.9
+97.0
+98.0 100.0 102.9
+34.4
+32.2
+30.7
+2783.1
+2645.5
+2644.9
+25 Telangana
+NA
+20078
+21252
+22811
+0.0
+4.1
+4.2
+4.7
+NA
+NA
+NA
+NA
+NA
+28.4
+27.1
+NA
+2177.3
+2119.9
+26 Tripura
+818
+716
+647
+557
+0.2
+0.1
+0.1
+0.1
+22.1
+19.1
+17.1
+14.6
+33.4
+28.0
+22.9
+263.7
+171.1
+173.1
+27 Uttarakhand
+1297
+1410
+1523
+1591
+0.3
+0.3
+0.3
+0.3
+12.7
+13.6
+14.5
+15.0
+8.9
+8.6
+8.3
+220.9
+233.3
+242.0
+28 Uttar Pradesh
+30615
+31034
+32385
+35612
+6.3
+6.3
+6.5
+7.4
+14.7
+14.7
+15.1
+16.3
+18.0
+16.2
+15.0
+702.2
+781.3
+779.6
+29 West Bengal
+12414
+12875
+13208
+13580
+2.6
+2.6
+2.6
+2.8
+13.6
+14.0
+14.2
+14.5
+27.6
+19.1
+17.8
+400.8
+410.4
+446.2
+30 Andaman & Nicobar Islands
+200
+218
+258
+238
+0.0
+0.0
+0.1
+0.0
+38.5
+40.9
+47.5
+43.2
+23.4
+23.3
+25.2
+1440.9
+1654.0
+1908.3
+31 Chandigarh
+410
+369
+416
+428
+0.1
+0.1
+0.1
+0.1
+25.9
+22.4
+24.2
+24.0
+3.7
+5.9
+6.1
+2057.2
+1281.6
+1417.4
+32 Dadra & Nagar Haveli
+91
+87
+69
+70
+0.0
+0.0
+0.0
+0.0
+23.5
+21.6
+16.7
+16.6
+9.7
+8.5
+6.2
+1123.5
+1034.5
+797.7
+33 Daman & Diu
+59
+39
+70
+71
+0.0
+0.0
+0.0
+0.0
+20.1
+12.8
+22.1
+21.5
+6.4
+4.1
+7.0
+3105.3
+769.2
+1341.0
+34 Delhi
+7566
+8623
+8085
+7375
+1.6
+1.8
+1.6
+1.5
+38.7
+42.9
+39.1
+34.6
+9.7
+10.4
+9.1
+2364.7
+2695.0
+2521.3
+35 Lakshadweep
+1
+1
+3
+1
+0.0
+0.0
+0.0
+0.0
+1.3
+1.3
+3.8
+1.2
+0.9
+0.8
+2.1
+48.3
+48.1
+140.2
+36 Puducherry
+1451
+1111
+1530
+1766
+0.3
+0.2
+0.3
+0.4
+95.9
+70.6
+94.1 105.8
+20.7
+14.8
+19.1
+5020.5
+3678.9
+4980.2
+486476
+489400
+501423
+480652
+100.0 100.0 100.0 100.0
+40.0
+40.5
+38.3
+37.9
+27.0
+26.3
+22.9
+1129.8
+1113.7
+1051.3
+Share of States/UTs in Total 
+Number of Road Accidents
+Total Number of Road Accidents in India: 2013 to 2016
+52
+Total Number of Accidents 
+Per Lakh Population
+State/UT-Wise Total Number of Road 
+Accidents during
+Sl. 
+No.
+States/UTs
+NA : Population for Telangana is not available and it is included in Andhra Pradesh Population
+Total 
+Total Number of  Road 
+Accidents per 10,000 Km of 
+Roads
+Total Number of  Road 
+Accidents per 10,000 
+Vehicles
+*: Figures of road length and registered motor vehicles for  the year 2016 are not finalised.  
+
+Annexure - III
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2013
+2014
+2015
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+1
+Andhra Pradesh
+14171
+7908
+8297
+8541
+10.3
+5.7
+5.7
+5.7
+16.4
+9.1
+9.5
+9.7
+11.2
+11.3
+10.5
+541.6
+444.0
+463.5
+2
+Arunachal Pradesh
+143
+119
+127
+149
+0.1
+0.1
+0.1
+0.1
+11.3
+9.3
+9.8
+11.3
+9.5
+7.9
+8.4
+50.9
+48.6
+50.1
+3
+Assam
+2441
+2522
+2397
+2572
+1.8
+1.8
+1.6
+1.7
+7.8
+8.0
+7.5
+7.9
+13.0
+11.4
+9.6
+84.7
+80.4
+73.4
+4
+Bihar
+5061
+4913
+5421
+4901
+3.7
+3.5
+3.7
+3.3
+5.0
+4.8
+5.3
+4.7
+14.0
+11.8
+11.3
+256.6
+234.2
+263.1
+5
+Chhattisgarh
+3477
+4022
+4082
+3908
+2.5
+2.9
+2.8
+2.6
+14.0
+15.9
+16.0
+15.1
+10.1
+10.4
+9.5
+389.6
+425.3
+418.5
+6
+Goa
+266
+290
+311
+336
+0.2
+0.2
+0.2
+0.2
+14.2
+15.1
+15.9
+17.0
+2.8
+2.9
+2.9
+229.3
+218.6
+212.7
+7
+Gujarat
+7613
+7955
+8119
+8136
+5.5
+5.7
+5.6
+5.4
+12.6
+13.0
+13.1
+13.0
+4.8
+4.7
+4.3
+459.6
+444.3
+445.4
+8
+Haryana
+4517
+4483
+4879
+5024
+3.3
+3.2
+3.3
+3.3
+17.2
+16.8
+18.0
+18.3
+6.8
+6.2
+6.2
+1063.4
+1050.3 1054.1
+9
+Himachal Pradesh
+1054
+1199
+1096
+1271
+0.8
+0.9
+0.8
+0.8
+15.2
+17.2
+15.6
+17.9
+12.0
+12.3
+10.2
+198.0
+220.5
+197.1
+10 Jammu & Kashmir
+990
+992
+917
+958
+0.7
+0.7
+0.6
+0.6
+8.2
+8.2
+7.5
+7.7
+9.7
+8.8
+7.4
+222.0
+253.7
+234.6
+11 Jharkhand
+2706
+2628
+2893
+3027
+2.0
+1.9
+2.0
+2.0
+8.4
+8.0
+8.7
+9.0
+8.1
+15.3
+14.0
+730.1
+637.0
+677.4
+12 Karnataka
+10046
+10452
+10856
+11133
+7.3
+7.5
+7.4
+7.4
+16.6
+17.1
+17.6
+17.8
+8.3
+7.8
+7.3
+328.9
+333.7
+337.3
+13 Kerala
+4258
+4049
+4196
+4287
+3.1
+2.9
+2.9
+2.8
+12.2
+11.5
+11.8
+12.0
+5.4
+4.6
+4.3
+230.1
+209.3
+215.3
+14 Madhya Pradesh
+8588
+8569
+9314
+9646
+6.2
+6.1
+6.4
+6.4
+11.5
+11.3
+12.1
+12.4
+9.8
+8.8
+8.4
+375.3
+306.0
+322.4
+15 Maharashtra
+13029
+12803
+13212
+12935
+9.5
+9.2
+9.0
+8.6
+11.3
+10.9
+11.1
+10.8
+6.1
+5.5
+5.2
+221.0
+210.3
+217.3
+16 Manipur
+165
+168
+139
+81
+0.1
+0.1
+0.1
+0.1
+6.6
+6.6
+5.4
+3.1
+5.6
+4.3
+4.5
+79.2
+77.6
+57.3
+17 Meghalaya
+130
+141
+183
+150
+0.1
+0.1
+0.1
+0.1
+4.8
+5.2
+6.7
+5.4
+5.9
+5.7
+6.9
+105.5
+106.3
+136.9
+18 Mizoram
+97
+103
+72
+70
+0.1
+0.1
+0.0
+0.0
+9.4
+9.9
+6.9
+6.6
+8.0
+7.5
+4.8
+88.7
+105.1
+73.2
+19 Nagaland
+30
+81
+30
+46
+0.0
+0.1
+0.0
+0.0
+1.3
+3.5
+1.3
+1.9
+1.0
+2.5
+0.9
+7.8
+22.1
+8.1
+20 Odisha
+4062
+3931
+4303
+4463
+3.0
+2.8
+2.9
+3.0
+9.8
+9.4
+10.2
+10.5
+9.6
+8.4
+8.2
+146.3
+138.8
+151.7
+21 Punjab
+4588
+4621
+4893
+5077
+3.3
+3.3
+3.3
+3.4
+16.2
+16.2
+17.0
+17.4
+6.5
+7.4
+7.8
+466.1
+443.6
+464.4
+22 Rajasthan
+9724
+10289
+10510
+10465
+7.1
+7.4
+7.2
+6.9
+13.9
+14.5
+14.6
+14.3
+9.7
+9.2
+8.5
+430.0
+426.5
+423.5
+23 Sikkim
+68
+59
+70
+85
+0.0
+0.0
+0.0
+0.1
+10.9
+9.3
+10.9
+13.1
+18.7
+14.9
+16.2
+103.5
+90.4
+94.0
+24 Tamil Nadu
+15563
+15190
+15642
+17218
+11.3
+10.9
+10.7
+11.4
+22.8
+22.1
+22.7
+24.8
+8.1
+7.3
+6.9
+653.9
+597.5
+599.1
+25 Telangana
+NA
+6906
+7110
+7219
+NA
+4.9
+4.9
+4.8
+NA
+NA
+NA
+NA
+NA
+9.8
+9.1
+NA
+748.9
+709.2
+26 Tripura
+226
+188
+158
+173
+0.2
+0.1
+0.1
+0.1
+6.1
+5.0
+4.2
+4.5
+9.2
+7.3
+5.6
+72.9
+44.9
+42.3
+27 Uttarakhand
+766
+878
+913
+962
+0.6
+0.6
+0.6
+0.6
+7.5
+8.5
+8.7
+9.0
+5.2
+5.4
+5.0
+130.5
+145.3
+145.0
+28 Uttar Pradesh
+16004
+16287
+17666
+19320
+11.6
+11.7
+12.1
+12.8
+7.7
+7.7
+8.2
+8.9
+9.4
+8.5
+8.2
+367.1
+410.0
+425.3
+29 West Bengal
+5504
+5875
+6234
+6544
+4.0
+4.2
+4.3
+4.3
+6.0
+6.4
+6.7
+7.0
+12.3
+8.7
+8.4
+177.7
+187.3
+210.6
+30 Andaman & Nicobar Islands
+40
+23
+23
+17
+0.0
+0.0
+0.0
+0.0
+7.7
+4.3
+4.2
+3.1
+4.7
+2.5
+2.2
+288.2
+174.5
+170.1
+31 Chandigarh
+117
+131
+129
+151
+0.1
+0.1
+0.1
+0.1
+7.4
+7.9
+7.5
+8.5
+1.1
+2.1
+1.9
+587.1
+455.0
+439.5
+32 Dadra & Nagar Haveli
+49
+59
+42
+46
+0.0
+0.0
+0.0
+0.0
+12.7
+14.7
+10.1
+10.9
+5.2
+5.7
+3.8
+604.9
+701.5
+485.5
+33 Daman & Diu
+31
+15
+42
+38
+0.0
+0.0
+0.0
+0.0
+10.6
+4.9
+13.2
+11.5
+3.4
+1.6
+4.2
+1631.6
+295.9
+804.6
+34 Delhi
+1820
+1671
+1622
+1591
+1.3
+1.2
+1.1
+1.1
+9.3
+8.3
+7.8
+7.5
+2.3
+2.0
+1.8
+568.8
+522.3
+505.8
+35 Lakshadweep
+0
+0
+0
+1
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+1.2
+0.0
+0.0
+0.0
+0.0
+0.0
+0.0
+36 Puducherry
+228
+151
+235
+244
+0.2
+0.1
+0.2
+0.2
+15.1
+9.6
+14.5
+14.6
+3.3
+2.0
+2.9
+788.9
+500.0
+764.9
+137572
+139671
+146133
+150785
+100.0
+100.0
+100.0
+100.0
+11.2
+11.3
+11.7
+11.9
+7.6
+7.3
+7.0
+317.6
+310.2
+319.6
+Sl. 
+No.
+States/UTs
+State/UT-Wise Total Number of  Persons 
+Killed in Road Accidents during
+Share of States/UTs in Total 
+Number of Persons Killed in 
+Road Accidents
+Total Number of Persons Killed in Road Accidents in India: 2013 to 2016
+Total Number of Persons 
+Killed in Road Accidents Per 
+Lakh Population
+53
+NA : Population for Telangana is not available and it is included in Andhra Pradesh Population
+Total 
+Total Number of Persons 
+Killed in Road Accidents 
+per 10,000 Vehicles
+Total Number of Persons 
+Killed in Road Accidents 
+per 10,000 Km of Roads
+*: Figures of road length and registered motor vehicles for  the year 2016 are not finalised.  
+
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2016
+2013
+2014
+2015
+2013
+2014
+2015
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+1
+Andhra Pradesh
+49970
+29931
+29439
+30051
+10.1
+6.1
+5.9
+6.1
+58.0
+34.4
+33.6
+34.0
+39.4
+42.7
+37.3
+1909.8
+1680.6
+1644.4
+2
+Arunachal Pradesh
+405
+308
+359
+391
+0.1
+0.1
+0.1
+0.1
+31.9
+24.0
+27.6
+29.8
+26.8
+20.4
+23.7
+144.2
+125.9
+141.6
+3
+Assam
+6609
+6499
+7068
+6127
+1.3
+1.3
+1.4
+1.2
+21.1
+20.5
+22.0
+18.9
+35.2
+29.3
+28.2
+229.4
+207.2
+216.5
+4
+Bihar
+7086
+6640
+6835
+5651
+1.4
+1.3
+1.4
+1.1
+7.1
+6.5
+6.7
+5.4
+19.6
+15.9
+14.3
+359.3
+316.6
+331.8
+5
+Chhattisgarh
+12503
+13157
+13426
+12955
+2.5
+2.7
+2.7
+2.6
+50.2
+52.1
+52.5
+50.1
+36.4
+34.0
+31.1
+1401.1
+1391.1
+1376.5
+6
+Goa
+1928
+1879
+2055
+2026
+0.4
+0.4
+0.4
+0.4 103.2
+98.1 105.2 102.5
+20.5
+18.6
+19.0
+1662.3
+1416.3
+1405.2
+7
+Gujarat
+24836
+22493
+21448
+19949
+5.0
+4.6
+4.3
+4.0
+41.0
+36.7
+34.5
+31.8
+15.7
+13.2
+11.5
+1499.4
+1256.2
+1176.6
+8
+Haryana
+9143
+8944
+10794
+10531
+1.8
+1.8
+2.2
+2.1
+34.8
+33.5
+39.9
+38.3
+13.9
+12.4
+13.6
+2152.5
+2095.4
+2332.0
+9
+Himachal Pradesh
+5081
+5576
+5108
+5764
+1.0
+1.1
+1.0
+1.2
+73.4
+79.9
+72.6
+81.2
+58.0
+57.2
+47.4
+954.7
+1025.2
+918.8
+10 Jammu & Kashmir
+8681
+8043
+8142
+7692
+1.8
+1.6
+1.6
+1.6
+72.3
+66.2
+66.3
+61.9
+85.0
+71.0
+65.4
+1946.5
+2056.7
+2082.6
+11 Jharkhand
+4356
+4356
+4038
+3793
+0.9
+0.9
+0.8
+0.8
+13.5
+13.3
+12.2
+11.3
+13.0
+25.3
+19.5
+1175.3
+1055.8
+945.6
+12 Karnataka
+56781
+56831
+56971
+54556
+11.5
+11.5
+11.4
+11.0
+93.7
+92.8
+92.2
+87.5
+47.1
+42.6
+38.5
+1858.9
+1814.6
+1770.3
+13 Kerala
+40346
+41096
+43735
+44108
+8.2
+8.3
+8.7
+8.9 115.2 116.6 123.3 123.6
+51.3
+46.8
+45.3
+2180.5
+2124.3
+2244.5
+14 Madhya Pradesh
+55731
+55335
+55815
+57873
+11.3
+11.2
+11.2
+11.7
+74.8
+73.2
+72.7
+74.3
+63.6
+56.9
+50.1
+2435.6
+1976.3
+1931.8
+15 Maharashtra
+41972
+40455
+39606
+35884
+8.5
+8.2
+7.9
+7.3
+36.3
+34.5
+33.4
+29.9
+19.5
+17.3
+15.5
+711.8
+664.6
+651.3
+16 Manipur
+1175
+1295
+1201
+955
+0.2
+0.3
+0.2
+0.2
+46.9
+51.1
+46.9
+36.8
+39.7
+32.8
+39.1
+563.9
+597.9
+495.3
+17 Meghalaya
+412
+311
+319
+354
+0.1
+0.1
+0.1
+0.1
+15.4
+11.5
+11.6
+12.8
+18.7
+12.5
+11.9
+334.5
+234.5
+238.6
+18 Mizoram
+264
+234
+103
+68
+0.1
+0.0
+0.0
+0.0
+25.7
+22.5
+9.8
+6.4
+21.8
+17.1
+6.8
+241.3
+238.7
+104.8
+19 Nagaland
+65
+230
+74
+120
+0.0
+0.0
+0.0
+0.0
+2.8
+9.9
+3.1
+5.0
+2.1
+7.2
+2.2
+17.0
+62.8
+19.9
+20 Odisha
+11254
+11087
+11825
+11312
+2.3
+2.2
+2.4
+2.3
+27.1
+26.5
+28.1
+26.6
+26.7
+23.6
+22.7
+405.3
+391.5
+416.8
+21 Punjab
+4383
+4127
+4414
+4351
+0.9
+0.8
+0.9
+0.9
+15.5
+14.4
+15.3
+14.9
+6.3
+6.6
+7.0
+445.2
+396.2
+418.9
+22 Rajasthan
+27424
+27453
+26153
+24103
+5.5
+5.6
+5.2
+4.9
+39.2
+38.7
+36.3
+33.0
+27.2
+24.7
+21.1
+1212.8
+1138.0
+1053.9
+23 Sikkim
+409
+352
+337
+263
+0.1
+0.1
+0.1
+0.1
+65.3
+55.6
+52.7
+40.6
+112.7
+88.9
+78.0
+622.5
+539.5
+452.3
+24 Tamil Nadu
+75681
+77725
+79746
+82163
+15.3
+15.8
+15.9
+16.6 110.9 113.2 115.5 118.4
+39.4
+37.3
+35.4
+3179.8
+3057.6
+3054.2
+25 Telangana
+NA
+21636
+22948
+24217
+NA
+4.4
+4.6
+4.9
+NA
+NA
+NA
+NA
+NA
+30.6
+29.3
+NA
+2346.3
+2289.1
+26 Tripura
+1277
+1225
+1028
+853
+0.3
+0.2
+0.2
+0.2
+34.5
+32.7
+27.2
+22.3
+52.1
+47.8
+36.4
+411.7
+292.7
+275.0
+27 Uttarakhand
+1503
+1531
+1657
+1735
+0.3
+0.3
+0.3
+0.4
+14.7
+14.8
+15.8
+16.3
+10.3
+9.3
+9.1
+256.0
+253.4
+263.2
+28 Uttar Pradesh
+23024
+22337
+23205
+25096
+4.7
+4.5
+4.6
+5.1
+11.1
+10.6
+10.8
+11.5
+13.5
+11.7
+10.7
+528.1
+562.3
+558.6
+29 West Bengal
+13182
+12018
+11794
+11859
+2.7
+2.4
+2.4
+2.4
+14.5
+13.1
+12.7
+12.7
+29.3
+17.8
+15.9
+425.6
+383.0
+398.4
+30 Andaman & Nicobar Islands
+233
+283
+331
+323
+0.0
+0.1
+0.1
+0.1
+44.8
+53.1
+61.0
+58.6
+27.3
+30.2
+32.4
+1678.6
+2147.2
+2448.2
+31 Chandigarh
+335
+335
+331
+329
+0.1
+0.1
+0.1
+0.1
+21.2
+20.3
+19.3
+18.5
+3.0
+5.3
+4.9
+1680.9
+1163.5
+1127.8
+32 Dadra & Nagar Haveli
+104
+96
+97
+130
+0.0
+0.0
+0.0
+0.0
+26.9
+23.9
+23.4
+30.8
+11.1
+9.3
+8.7
+1284.0
+1141.5
+1121.4
+33 Daman & Diu
+75
+49
+64
+102
+0.0
+0.0
+0.0
+0.0
+25.6
+16.1
+20.2
+30.9
+8.2
+5.1
+6.4
+3947.4
+966.5
+1226.1
+34 Delhi
+7098
+8283
+8258
+7154
+1.4
+1.7
+1.7
+1.4
+36.3
+41.2
+39.9
+33.6
+9.1
+10.0
+9.3
+2218.5
+2588.8
+2575.2
+35 Lakshadweep
+2
+1
+3
+0
+0.0
+0.0
+0.0
+0.0
+2.6
+1.3
+3.8
+0.0
+1.8
+0.8
+2.1
+96.6
+48.1
+140.2
+36 Puducherry
+1565
+1323
+1552
+1786
+0.3
+0.3
+0.3
+0.4 103.4
+84.1
+95.4 107.0
+22.4
+17.6
+19.3
+5415.0
+4380.9
+5051.9
+494893
+493474
+500279
+494624
+100.0
+100.0
+100.0 100.0
+40.4
+39.8
+39.9
+39.0
+27.3
+25.9
+23.8
+1142.4
+1096.0
+1094.2
+54
+Annexure - IV
+Total Number of Persons Injured in Road Accidents in India: 2013 to 2016
+Sl. 
+No.
+States/UTs
+State/UT-Wise Total Number of  Persons 
+Injured in Road Accidents during
+Share of States/UTs in Total 
+Number of Persons Injured in 
+Road Accidents
+Total Number of Persons 
+Injured in Road Accidents 
+Per Lakh Population
+NA : Population for Telangana is not available and it is included in Andhra Pradesh Population
+Total 
+Total Number of 
+Persons Killed in Road 
+Accidents per 10,000 
+Vehicles
+Total Number of Persons Killed 
+in Road Accidents per 10,000 Km 
+of Roads
+*: Figures of road length and registered motor vehicles for  the year 2016 are not finalised.  
+
+Sl. No.
+States/UTs
+2013
+2014
+2015
+2016
+1
+2
+4
+5
+6
+7
+1
+Andhra Pradesh
+13175
+7277
+7524
+7851
+2
+Arunachal Pradesh
+120
+92
+117
+103
+3
+Assam
+2162
+2169
+2122
+2445
+4
+Bihar
+4612
+4505
+4771
+4425
+5
+Chhattisgarh
+3059
+3570
+3710
+3527
+6
+Goa
+249
+283
+302
+316
+7
+Gujarat
+6786
+7063
+7332
+7296
+8
+Haryana
+4095
+4214
+4430
+4636
+9
+Himachal Pradesh
+736
+831
+843
+1000
+10
+Jammu & Kashmir
+809
+886
+749
+734
+11
+Jharkhand
+2425
+2259
+2619
+2681
+12
+Karnataka
+8870
+9485
+9888
+10215
+13
+Kerala
+3972
+3823
+3937
+4064
+14
+Madhya Pradesh
+7565
+7554
+8412
+8774
+15
+Maharashtra
+11336
+11528
+12009
+11780
+16
+Manipur
+144
+149
+116
+78
+17
+Meghalaya
+124
+127
+153
+146
+18
+Mizoram
+77
+88
+50
+61
+19
+Nagaland
+34
+68
+23
+41
+20
+Odisha
+3481
+3506
+3855
+4036
+21
+Punjab
+4164
+4285
+4357
+4584
+22
+Rajasthan
+8785
+9334
+9306
+9282
+23
+Sikkim
+66
+53
+61
+60
+24
+Tamil Nadu
+14504
+14165
+14524
+16092
+25
+Telangana
+NA
+6316
+6569
+6617
+26
+Tripura
+219
+168
+154
+165
+27
+Uttarakhand
+642
+713
+765
+801
+28
+Uttar Pradesh
+13077
+13842
+15218
+16164
+29
+West Bengal
+5077
+5489
+5779
+6081
+30
+Andaman & Nicobar Islands
+32
+20
+22
+16
+31
+Chandigarh
+114
+124
+124
+144
+32
+Dadra & Nagar Haveli
+47
+53
+36
+40
+33
+Daman & Diu
+30
+15
+38
+32
+34
+Delhi
+1778
+1629
+1582
+1548
+35
+Lakshadweep
+0
+0
+0
+1
+36
+Puducherry
+223
+145
+229
+235
+122589
+125828
+131726
+136071
+Annexure V
+Total Number of Fatal Road Accidents in States/UTs: 2013-2016
+Total 
+55
+
+2013
+2014
+2015
+2016
+1
+2
+3
+4
+5
+6
+1
+Andhra Pradesh
+32.6
+32.4
+34.2
+34.3
+2
+Arunachal Pradesh
+46.4
+58
+44.7
+59.8
+3
+Assam
+33.9
+35.3
+34.4
+34.6
+4
+Bihar
+49.6
+51.4
+56.7
+59.6
+5
+Chhattisgarh
+25.5
+29.1
+28.3
+28.8
+6
+Goa
+6.2
+6.9
+7.2
+7.8
+7
+Gujarat
+30
+33.5
+35.0
+37.2
+8
+Haryana
+43.1
+42
+43.7
+44.7
+9
+Himachal Pradesh
+35.4
+39.2
+36.4
+40.1
+10
+Jammu & Kashmir
+15.3
+16.9
+15.7
+17.4
+11
+Jharkhand
+48.6
+50.5
+56.0
+61.4
+12
+Karnataka
+22.8
+23.9
+24.7
+25.1
+13
+Kerala
+12.1
+11.2
+10.8
+10.9
+14
+Madhya Pradesh
+16.6
+16
+17.0
+17.9
+15
+Maharashtra
+20.7
+20.8
+20.7
+32.4
+16
+Manipur
+24.6
+22.6
+20.7
+15.1
+17
+Meghalaya
+24.8
+26
+30.2
+24.2
+18
+Mizoram
+85.1
+78
+102.9
+84.3
+19
+Nagaland
+42.3
+26.6
+55.6
+61.3
+20
+Odisha
+42
+40.7
+40.8
+42.4
+21
+Punjab
+72.6
+72.3
+73.0
+73.0
+22
+Rajasthan
+41.2
+41.8
+43.7
+45.4
+23
+Sikkim
+27.9
+29.1
+32.0
+40.5
+24
+Tamil Nadu
+23.5
+22.6
+22.7
+24.1
+25
+Telangana
+NA
+34.4
+33.5
+31.6
+26
+Tripura
+27.6
+26.3
+24.4
+31.1
+27
+Uttarakhand
+59.1
+62.3
+59.9
+60.5
+28
+Uttar Pradesh
+52.3
+52.5
+54.5
+54.3
+29
+West Bengal
+44.3
+45.6
+47.2
+48.2
+30
+Andaman & Nicobar Island
+20
+10.6
+8.9
+7.1
+31
+Chandigarh
+28.5
+35.5
+31.0
+35.3
+32
+Dadra & Nagar Haveli
+53.8
+67.8
+60.9
+65.7
+33
+Daman & Diu
+52.5
+38.5
+60.0
+53.5
+34
+Delhi
+24.1
+19.4
+20.1
+21.6
+35
+Lakshadweep
+0
+0
+0.0
+100.0
+36
+Puducherry
+15.7
+13.6
+15.4
+13.8
+28.3
+28.5
+29.1
+31.4
+Annexure - VI
+S. No.
+States/UTs
+56
+Severity* of Road Accidents in India (State/UT-wise): 2013 to 2016
+Persons Killed per 100 Accidents
+National Average
+Note:   * Accident Severity:  Road accident deaths per 100 accidents
+
+1
+2
+3
+4
+5
+6
+7
+1
+Andhra Pradesh
+7,851
+4,937
+10,870
+1,230
+24,888
+2
+Arunachal Pradesh
+103
+99
+38
+9
+249
+3
+Assam
+2,445
+3,451
+733
+806
+7,435
+4
+Bihar 
+4,425
+2,316
+1,091
+390
+8,222
+5
+Chhattisgarh 
+3,527
+1,605
+6,543
+1,905
+13,580
+6
+Goa
+316
+187
+1202
+2,599
+4,304
+7
+Gujarat
+7,296
+6,149
+5,944
+2,470
+21,859
+8
+Haryana 
+4,636
+1,327
+5,129
+142
+11,234
+9
+Himachal Pradesh
+1000
+851
+1127
+190
+3,168
+10
+Jammu & Kashmir
+734
+172
+3,873
+722
+5,501
+11
+Jharkhand
+2,681
+1,358
+734
+159
+4,932
+12
+Karnataka
+10,215
+14,361
+15,120
+4,707
+44,403
+13
+Kerala
+4,064
+27,263
+6,445
+1,648
+39,420
+14
+Madhya Pradesh
+8,774
+4,428
+35,729
+5,041
+53,972
+15
+Maharashtra
+11,780
+13,273
+8,554
+6,271
+39,878
+16
+Manipur
+78
+82
+362
+16
+538
+17
+Meghalaya
+146
+162
+192
+120
+620
+18
+Mizoram
+61
+14
+7
+1
+83
+19
+Nagaland
+41
+15
+13
+6
+75
+20
+Orissa
+4,036
+3,963
+2,364
+169
+10,532
+21
+Punjab
+4,584
+1,400
+825
+143
+6,952
+22
+Rajasthan
+9,282
+3,786
+9,260
+738
+23,066
+23
+Sikkim
+60
+79
+53
+18
+210
+24
+Tamil Nadu
+16,092
+6,262
+46,908
+2,169
+71,431
+25
+Telangana
+6,617
+1,290
+12,584
+2,320
+22,811
+26
+Tripura
+165
+375
+5
+12
+557
+27
+Uttarakhand
+801
+524
+244
+22
+1,591
+28
+Uttar Pradesh
+16,164
+14,471
+4,313
+664
+35,612
+29
+West Bengal
+6,081
+5,398
+1,057
+1044
+13,580
+30
+A & N Islands
+16
+76
+109
+37
+238
+31
+Chandigarh
+144
+18
+202
+64
+428
+32
+D & N Haveli
+40
+25
+2
+3
+70
+33
+Daman & Diu
+32
+31
+4
+4
+71
+34
+Delhi
+1,548
+583
+5,088
+156
+7,375
+35
+Lakshadweep
+1
+0
+0
+0
+1
+36
+Puducherry
+235
+517
+918
+96
+1,766
+1,36,071
+1,20,848
+1,87,642
+36,091
+4,80,652
+57
+Annexure - VII
+Type of Road accidents in States/ UTs in 2016
+S.No
+States/UTs
+Fatal 
+Accidents
+Grievous 
+Injury 
+Accidents
+Non-Injury 
+Accidents
+Total 
+Accidents
+Minor 
+Injury 
+Accidents
+Total
+
+Annexure - VIII
+S.No
+States/UTs
+Greviously Injured 
+persons
+Minor Injured 
+persons
+Total Injured 
+persons
+1
+2
+3
+4
+5
+1
+Andhra Pradesh
+7213
+22838
+30051
+2
+Arunachal Pradesh
+281
+110
+391
+3
+Assam
+5018
+1109
+6127
+4
+Bihar
+3693
+1958
+5651
+5
+Chhattisgarh
+2334
+10621
+12955
+6
+Goa
+265
+1761
+2026
+7
+Gujarat
+9998
+9951
+19949
+8
+Haryana
+2149
+8382
+10531
+9
+Himachal Pradesh
+1485
+4279
+5764
+10
+Jammu & Kashmir
+209
+7483
+7692
+11
+Jharkhand
+2612
+1181
+3793
+12
+Karnataka
+24153
+30403
+54556
+13
+Kerala
+30100
+14008
+44108
+14
+Madhya Pradesh
+6979
+50894
+57873
+15
+Maharashtra
+22273
+13611
+35884
+16
+Manipur
+186
+769
+955
+17
+Meghalaya
+162
+192
+354
+18
+Mizoram
+31
+37
+68
+19
+Nagaland
+47
+73
+120
+20
+Orissa
+5709
+5603
+11312
+21
+Punjab
+2894
+1457
+4351
+22
+Rajasthan
+6247
+17856
+24103
+23
+Sikkim
+75
+188
+263
+24
+Tamil Nadu
+8421
+73742
+82163
+25
+Telangana
+1865
+22352
+24217
+26
+Tripura
+840
+13
+853
+27
+Uttarakhand
+1186
+549
+1735
+28
+Uttar Pradesh
+17708
+7388
+25096
+29
+West Bengal
+9395
+2464
+11859
+30
+A & N Islands
+87
+236
+323
+31
+Chandigarh
+25
+304
+329
+32
+D & N Haveli
+105
+25
+130
+33
+Daman & Diu
+60
+42
+102
+34
+Delhi
+654
+6500
+7154
+35
+Lakshadweep
+0
+0
+0
+36
+Puducherry
+550
+1236
+1786
+Total
+175009
+319615
+494624
+58
+Total number of Grevious and Minor Injured Persons in Road Accidents during the 
+calendar year 2016
+
+2013
+2014
+2015
+2016
+1
+2
+3
+4
+5
+6
+1
+Andhra Pradesh
+12131
+8799
+8477
+8171
+2
+Arunachal Pradesh
+116
+88
+113
+95
+3
+Assam
+3718
+3639
+3353
+3478
+4
+Bihar
+3471
+3708
+3227
+3138
+5
+Chhattisgarh
+3968
+3330
+4058
+4042
+6
+Goa
+1694
+1687
+1784
+1438
+7
+Gujarat
+5600
+5038
+4897
+4617
+8
+Haryana
+3863
+3290
+3509
+3818
+9
+Himachal Pradesh
+1227
+1242
+1211
+1475
+10
+Jammu & Kashmir
+2161
+2040
+1953
+2122
+11
+Jharkhand
+1800
+1368
+2007
+1935
+12
+Karnataka
+13678
+13827
+12705
+14933
+13
+Kerala
+8921
+9006
+9442
+9209
+14
+Madhya Pradesh
+13328
+12726
+11988
+10709
+15
+Maharashtra
+11289
+10788
+10839
+10364
+16
+Manipur
+382
+431
+404
+325
+17
+Meghalaya
+199
+270
+322
+338
+18
+Mizoram
+34
+55
+29
+46
+19
+Nagaland
+30
+164
+34
+57
+20
+Odisha
+3791
+3880
+4480
+4214
+21
+Punjab
+1815
+1791
+2092
+2114
+22
+Rajasthan
+6707
+6991
+6821
+6567
+23
+Sikkim
+122
+105
+117
+90
+24
+Tamil Nadu
+20686
+20109
+21902
+22573
+25
+Telangana
+NA
+4945
+5649
+6166
+26
+Tripura
+273
+230
+230
+203
+27
+Uttarakhand
+681
+669
+728
+842
+28
+Uttar Pradesh
+8652
+11157
+13802
+13078
+29
+West Bengal
+4718
+4895
+4288
+4468
+30
+Andaman & Nicobar Islands
+95
+69
+96
+90
+31
+Chandigarh
+32
+36
+45
+47
+32
+Dadra & Nagar Haveli
+0
+0
+0
+0
+33
+Daman & Diu
+0
+0
+6
+0
+34
+Delhi
+898
+976
+897
+723
+35
+Lakshadweep
+0
+0
+0
+0
+36
+Puducherry
+706
+554
+763
+874
+136786
+137903
+142268
+142359
+* Includes expressways
+Annexure - IX
+Total Number of Road Accidents on National Highways*: 2013 to 2016
+Sl. 
+No.
+States/UTs
+State/UT-Wise Total Number of  Road Accidents 
+on National Highways during
+59
+Total 
+
+2013
+2014
+2015
+2016
+1
+2
+3
+4
+5
+6
+1
+Andhra Pradesh
+4709
+2970
+3235
+3006
+2
+Arunachal Pradesh
+58
+52
+49
+58
+3
+Assam
+1463
+1392
+1427
+1295
+4
+Bihar
+1890
+2013
+2002
+2014
+5
+Chhattisgarh
+1124
+1118
+1201
+1181
+6
+Goa
+104
+108
+132
+113
+7
+Gujarat
+1920
+2149
+2136
+2141
+8
+Haryana
+1807
+1704
+1759
+1845
+9
+Himachal Pradesh
+346
+389
+369
+478
+10
+Jammu & Kashmir
+432
+452
+357
+403
+11
+Jharkhand
+1153
+669
+1325
+1222
+12
+Karnataka
+3353
+4256
+3657
+4116
+13
+Kerala
+1336
+1261
+1368
+1263
+14
+Madhya Pradesh
+2479
+2395
+2287
+2564
+15
+Maharashtra
+3698
+3577
+3789
+3887
+16
+Manipur
+89
+100
+94
+46
+17
+Meghalaya
+52
+93
+89
+108
+18
+Mizoram
+29
+40
+20
+45
+19
+Nagaland
+14
+35
+10
+35
+20
+Odisha
+1706
+1641
+1795
+1812
+21
+Punjab
+1360
+1482
+1538
+1495
+22
+Rajasthan
+3391
+3598
+3709
+3737
+23
+Sikkim
+35
+33
+37
+39
+24
+Tamil Nadu
+5710
+5344
+5752
+6255
+25
+Telangana
+NA
+1895
+2103
+2173
+26
+Tripura
+83
+74
+50
+68
+27
+Uttarakhand
+395
+479
+464
+503
+28
+Uttar Pradesh
+4390
+5827
+7773
+7469
+29
+West Bengal
+2037
+2152
+2243
+2304
+30
+Andaman & Nicobar Islands
+15
+7
+4
+7
+31
+Chandigarh
+9
+21
+19
+24
+32
+Dadra & Nagar Haveli
+0
+0
+0
+0
+33
+Daman & Diu
+0
+0
+5
+0
+34
+Delhi
+301
+253
+260
+238
+35
+Lakshadweep
+0
+0
+0
+0
+36
+Puducherry
+124
+70
+146
+131
+45612
+47649
+51204
+52075
+60
+* Includes expressways
+Annexure - X
+Total Number of Persons Killed in Road Accidents on National Highways*: 2013 to 2016
+Sl. 
+No.
+States/UTs
+State/UT-Wise Total Number of  Persons Killed in Road Accidents on 
+National Highways during
+Total 
+
+2013
+2014
+2015
+2016
+1
+2
+3
+4
+5
+6
+1
+Andhra Pradesh
+13283
+10240
+9816
+9553
+2
+Arunachal Pradesh
+130
+115
+132
+135
+3
+Assam
+3133
+3592
+3446
+2759
+4
+Bihar
+2449
+2627
+2257
+2034
+5
+Chhattisgarh
+3237
+2986
+3585
+3844
+6
+Goa
+741
+610
+650
+472
+7
+Gujarat
+5090
+4516
+4299
+3955
+8
+Haryana
+3140
+3014
+3097
+3157
+9
+Himachal Pradesh
+2105
+2067
+1767
+2435
+10
+Jammu & Kashmir
+2005
+2819
+3146
+2895
+11
+Jharkhand
+1468
+1081
+1555
+1504
+12
+Karnataka
+17933
+20291
+16813
+17856
+13
+Kerala
+10093
+10282
+10542
+10521
+14
+Madhya Pradesh
+13633
+12757
+10260
+11375
+15
+Maharashtra
+9722
+9742
+9577
+9515
+16
+Manipur
+665
+820
+770
+591
+17
+Meghalaya
+172
+168
+165
+206
+18
+Mizoram
+39
+73
+26
+39
+19
+Nagaland
+20
+118
+39
+85
+20
+Odisha
+4065
+4594
+4950
+4354
+21
+Punjab
+1361
+1203
+1339
+1287
+22
+Rajasthan
+8089
+7980
+7526
+7023
+23
+Sikkim
+209
+188
+172
+96
+24
+Tamil Nadu
+24676
+24834
+26355
+27844
+25
+Telangana
+NA
+5086
+6239
+6504
+26
+Tripura
+449
+420
+422
+304
+27
+Uttarakhand
+831
+769
+713
+958
+28
+Uttar Pradesh
+7100
+8477
+9618
+9197
+29
+West Bengal
+5549
+4531
+4270
+4096
+30
+Andaman & Nicobar Islands
+112
+112
+119
+160
+31
+Chandigarh
+23
+38
+39
+22
+32
+Dadra & Nagar Haveli
+0
+0
+0
+0
+33
+Daman & Diu
+0
+0
+2
+0
+34
+Delhi
+812
+907
+888
+650
+35
+Lakshadweep
+0
+0
+0
+0
+36
+Puducherry
+773
+639
+747
+860
+143107
+147696
+145341
+146286
+61
+* Includes expressways
+Annexure - XI
+Total Number of Persons Injured in Road Accidents on National Highways*: 2013 to 2016
+Sl. 
+No.
+States/UTs
+State/UT-Wise Total Number of  Persons Injured in Road 
+Accidents on National Highways during
+Total 
+
+2013
+2014
+2015
+2016
+1
+2
+3
+4
+5
+6
+1
+Andhra Pradesh
+9621
+5644
+5351
+5639
+2
+Arunachal Pradesh
+0
+0
+0
+75
+3
+Assam
+1817
+1777
+1898
+1999
+4
+Bihar
+2837
+2535
+3255
+2434
+5
+Chhattisgarh
+3804
+3758
+3898
+3164
+6
+Goa
+422
+434
+451
+356
+7
+Gujarat
+7731
+7437
+6739
+6309
+8
+Haryana
+3253
+3247
+3389
+2887
+9
+Himachal Pradesh
+643
+698
+634
+820
+10 Jammu & Kashmir
+922
+767
+837
+537
+11 Jharkhand
+1204
+1252
+1480
+1704
+12 Karnataka
+11898
+13308
+10254
+11462
+13 Kerala
+6605
+6140
+6888
+7135
+14 Madhya Pradesh
+13876
+14267
+13166
+14456
+15 Maharashtra
+12029
+11760
+11184
+9052
+16 Manipur
+135
+167
+136
+117
+17 Meghalaya
+80
+91
+117
+102
+18 Mizoram
+40
+51
+34
+27
+19 Nagaland
+41
+94
+11
+0
+20 Odisha
+3433
+3507
+4074
+3328
+21 Punjab
+2122
+1519
+1965
+2101
+22 Rajasthan
+3029
+3774
+3638
+3695
+23 Sikkim
+83
+71
+85
+70
+24 Tamil Nadu
+20984
+21441
+23165
+23405
+25 Telangana
+NA
+3623
+3783
+4090
+26 Tripura
+382
+374
+268
+217
+27 Uttarakhand
+281
+391
+408
+568
+28 Uttar Pradesh
+13196
+11669
+9320
+11715
+29 West Bengal
+3832
+3404
+3802
+3793
+30 Andaman & Nicobar Islands
+0
+56
+32
+19
+31 Chandigarh
+0
+0
+0
+0
+32 Dadra & Nagar Haveli
+0
+0
+0
+0
+33 Daman & Diu
+0
+0
+0
+6
+34 Delhi
+0
+0
+0
+0
+35 Lakshadweep
+0
+0
+0
+0
+36 Puducherry
+58
+152
+256
+373
+124358
+123408
+120518
+121655
+Annexure - XII
+Total Number of Road Accidents on State Highways: 2013 to 2016
+Sl. 
+No.
+States/UTs
+State/UT-Wise Total Number of  Road Accidents on 
+State Highways during
+62
+Note: There were no State Highways in  Chandigarh and Delhi.
+Total 
